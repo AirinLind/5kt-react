@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/5kt-react/static/css/main.a58cb9a2.css",
+    "main.js": "/5kt-react/static/js/main.8f5fa997.js",
+    "index.html": "/5kt-react/index.html",
+    "main.a58cb9a2.css.map": "/5kt-react/static/css/main.a58cb9a2.css.map",
+    "main.8f5fa997.js.map": "/5kt-react/static/js/main.8f5fa997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a58cb9a2.css",
+    "static/js/main.8f5fa997.js"
+  ]
+}
